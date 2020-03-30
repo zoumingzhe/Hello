@@ -1,0 +1,1 @@
+g++ -o "/root/projects/HelloVS2Linux/bin/x64/Debug/HelloVS2Linux.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /root/projects/HelloVS2Linux/obj/x64/Debug/main.o

@@ -1,0 +1,8 @@
+﻿  Validating sources
+  Copying sources remotely to '192.168.12.36'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  main.cpp
+  Linking objects
+  HelloVS2Linux.vcxproj -> D:\GitHub\Hello\HelloVS2Linux\HelloVS2Linux\bin\x64\Debug\HelloVS2Linux.out
