@@ -1,5 +1,7 @@
-# Debugging Linux programs in Visual Studio （在 Visual Studio 中调试 Linux 程序）
- 创建第一个可以在 Visual Studio 中调试的 Linux 程序。
+# Debugging Linux programs in Visual Studio 
+
+# 在Visual Studio中调试Linux程序
+ 创建第一个可以在Visual Studio中调试的Linux程序。
 
 
 # Reference （参考）
