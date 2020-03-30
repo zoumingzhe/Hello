@@ -3,6 +3,8 @@
 # 在Visual Studio中调试Linux程序
  创建第一个可以在Visual Studio中调试的Linux程序。
 
+# 如何调试子进程
+ “调试” -> “Project属性” -> “调试” -> “调试子进程” -> “是”。
 
 # Reference （参考）
 1.[VS2017 编译调试 Linux 程序](https://blog.csdn.net/u013272009/article/details/81023594)
