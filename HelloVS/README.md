@@ -9,8 +9,10 @@
 
 # 如何调试子进程
 1.修改Linux配置文件“/etc/ssh/sshd_config”，将PermitRootLogin修改为yes。
+
 2.重启Linux中的SSH服务，在Visual Studio中用Root用户远程登录。
-2.“调试” -> “Project属性” -> “调试” -> “调试子进程” -> “是”。
+
+3.“调试” -> “Project属性” -> “调试” -> “调试子进程” -> “是”。
 
 # Reference （参考）
 1.[VS2017 编译调试 Linux 程序](https://blog.csdn.net/u013272009/article/details/81023594)
